@@ -1,7 +1,7 @@
 <div align="center">
 
-### Hello, I'm [Portal | Portal#4849](https://keoware.carrd.co/) <a href="https://discord.gg/fXqAp7VMT6"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
-### I like to code and chill :P | Currently Working on KéoWare
+### Hello, I'm [Portal | Portal#4849](https://mangoware.carrd.co/) <a href="https://discord.gg/fXqAp7VMT6"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
+### I like to code and chill :P | Currently Working on mango
 
 
   
@@ -17,7 +17,7 @@
   
 ### **Projects and Scripts**
   
-  ### [mangoware](https://github.com/PortalK/keoware)
+  ### [mango](https://github.com/PortalK/mango)
   
   ### [TFHub (Old)](https://github.com/PortalK/tfhub)
   
