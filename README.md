@@ -17,7 +17,7 @@
   
 ### **Projects and Scripts**
   
-  ### [KéoWare](https://github.com/PortalK/keoware)
+  ### [mangoware](https://github.com/PortalK/keoware)
   
   ### [TFHub (Old)](https://github.com/PortalK/tfhub)
   
