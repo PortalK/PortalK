@@ -17,7 +17,7 @@
   
 ### **Projects and Scripts**
   
-  ### [mango](https://github.com/PortalK/portalware)
+  ### [portalware](https://github.com/PortalK/portalware)
   
   ### [TFHub (Old)](https://github.com/PortalK/tfhub)
   
