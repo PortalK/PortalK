@@ -13,6 +13,8 @@
   
 <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
   
+  Also a python developer :P
+  
   <hr>
   
 ### **Projects and Scripts**
