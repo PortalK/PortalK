@@ -19,9 +19,7 @@
   
 ### **Projects and Scripts**
   
-  ### [UI Librarys (Main)](https://github.com/PortalK/uilibrarys)
-  
-  ### [TFHub (Old)](https://github.com/PortalK/tfhub)
+  ### [Elysian](https://github.com/PortalK/elysian)
   
   ### [Scripts](https://github.com/PortalK/scripts)
 
