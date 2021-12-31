@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hello, I'm [Portal | Portal#4849]
+### Hello, I'm [Portal | Portal#4849]()
 ### I like to code and chill :P | Currently Working on funny scripts :)
 
 
@@ -19,6 +19,6 @@
   
 ### **Projects and Scripts**
   
-  ### [None at the moment]
+  ### [None at the moment]()
 
 
